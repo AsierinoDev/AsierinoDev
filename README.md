@@ -1,0 +1,5 @@
+- 👋 Hola, soy @AsierinoDev
+- 👀 Estoy interesado en el diseño y desarrollo de videojuegos y la ingeniería informática de software
+- 🌱 Actualmente estoy aprendiendo los conceptos básicos de la programación
+-  🎞 Tengo experiencia editando videos en el programa de Sony Vegas
+- 📫 contactoasierino@gmail.com
